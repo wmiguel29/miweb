@@ -1,3 +1,0 @@
-<i class="fa fa-html5" aria-hidden="true"></i>
-<i class="fas fa-haykal    "></i>
-
